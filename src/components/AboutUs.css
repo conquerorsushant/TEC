@@ -1,0 +1,18 @@
+.about-us {
+    background-image: url('../Images/download.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; 
+  }
+  
+  .about-us-content {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
